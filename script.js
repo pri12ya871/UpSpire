@@ -819,7 +819,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <div class="login-success">
             <div class="success-icon"><i class="fas fa-check-circle"></i></div>
             <h3>Account Created!</h3>
-            <p>Welcome to Learnova, ${name}!</p>
+            <p>Welcome to UpSpire, ${name}!</p>
           </div>
         `;
         
@@ -1074,7 +1074,7 @@ document.body.insertAdjacentHTML('afterbegin', `
       <svg viewBox="0 0 80 80">
         <circle id="loader-circle" cx="40" cy="40" r="32"></circle>
       </svg>
-      <div class="loader-text">Learnova</div>
+      <div class="loader-text">UpSpire</div>
     </div>
   </div>
   <style>
